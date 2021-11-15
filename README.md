@@ -3,6 +3,12 @@ Custom LE files I made.
 
 Just import the files into the app, which can be found here: https://hk-gaming.com/pages/download
 
+# Preview
+Neon City
+![alt text](https://github.com/NovaKe1n/GK61-Custom-LE/blob/main/previews/NeonCity.jpg)
+
+Pink City
+![alt text](https://github.com/NovaKe1n/GK61-Custom-LE/blob/main/previews/PinkCity.jpg)
 
 # Palette
 ### Neon City
