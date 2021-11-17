@@ -3,6 +3,8 @@ Custom LE files I made.
 
 Just import the files into the app, which can be found here: https://hk-gaming.com/pages/download
 
+**NOTE: tested only on GK61 (HK-Gaming) not the GK61US.**
+
 # Preview
 Neon City
 ![alt text](https://github.com/NovaKe1n/GK61-Custom-LE/blob/main/previews/NeonCity.jpg)
